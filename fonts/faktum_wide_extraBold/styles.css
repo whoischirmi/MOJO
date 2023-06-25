@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'faktum-wide-extrabold';
+  src: url(./faktum-wide-extrabold.eot);
+  src: url(./faktum-wide-extrabold.eot?#iefix) format('embedded-opentype'),
+       url(./faktum-wide-extrabold.svg#faktum-wide-extrabold) format('svg'),
+       url(./faktum-wide-extrabold.ttf) format('truetype'),
+       url(./faktum-wide-extrabold.woff2) format('woff2');
+}
