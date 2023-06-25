@@ -186,6 +186,7 @@
   .burger-links {
     color: #FFFEF3;
     text-transform: uppercase;
+    font-size: 14px;
   }
   .burger-links:hover {
     color: #b8b7a9;
